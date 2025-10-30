@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario Krysion Base</title>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+  <div id="root"></div>
+  
+  <script type="text/babel">
+    // AQUÍ PEGAS TODO EL CÓDIGO DE TU FORMULARIO
+    // (El código completo del artifact)
+  </script>
+</body>
+</html>
+```
+
+4. Ve a Settings → Pages
+5. Source: main branch
+6. Tu formulario estará en: `tuusuario.github.io/krysion-formulario`
+
+### **OPCIÓN B: Netlify (GRATIS, más rápido)**
+
+1. Ve a [netlify.com](https://netlify.com)
+2. Crea cuenta
+3. "Add new site" → "Deploy manually"
+4. Arrastra un archivo HTML con el código del formulario
+5. Te da un link como: `tu-formulario.netlify.app`
+
+### **OPCIÓN C: Vercel (GRATIS, más profesional)**
+
+Similar a Netlify pero con más opciones.
+
+---
+
+## **📋 PASO 4: Enviar a clientes**
+
+Una vez publicado:
+
+**Por WhatsApp:**
+```
+¡Hola! 👋 
+
+Para crear tu plan personalizado Krysion Base, 
+necesito que completes este formulario:
+
+🔗 [tu-link-aqui]
+
+Son solo 5 minutos y me ayuda a diseñar el 
+plan perfecto para ti.
+
+¿Tienes alguna duda antes de empezar?
